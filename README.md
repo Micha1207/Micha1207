@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Linux & Programming
+- 📫 How to reach me: no how
 - 😄 Pronouns: Linux User (Debian)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: none
 
 <!---
 Micha1207/Micha1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
