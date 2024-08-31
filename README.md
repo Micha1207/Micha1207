@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning coding (C++, Python)
 - 💞️ I’m looking to collaborate on Linux
 - 📫 How to reach me: no how
 - 😄 Pronouns: Linux User (Debian)
