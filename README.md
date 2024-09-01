@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Linux
 - 📫 How to reach me: no how
 - 😄 Pronouns: Linux User (Debian)
-- ⚡ Fun fact: forget it
 - 🌐 Website: micha1207.github.io/page
 
 <!---
