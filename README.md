@@ -2,9 +2,9 @@
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning coding (C, Python)
 - 💞️ I’m looking to collaborate on Linux
-- 😄 Pronouns: Linux User (Ubuntu)
+- 😄 Pronouns: Ubuntu Linux User
 - 🌐 Website: micha1207.github.io/page
-- 💬 Tags: #linux #gnu #Ubuntu #codind #raspberrypi
+- 💬 Tags: #linux #gnu #Ubuntu #coding #raspberrypi
 
 <!---
 Micha1207/Micha1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
