@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning coding (C, Python)
 - 💞️ I’m looking to collaborate on Linux
-- 😄 Pronouns: Ubuntu Linux User
+- 😄 Pronouns: fun Ubuntu Linux User
 - 🌐 Website: micha1207.github.io/page
 - 💬 Tags: #linux #gnu #Ubuntu #coding #raspberrypi
 
