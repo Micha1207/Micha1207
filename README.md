@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning coding (C, Python)
-- 😄 Pronouns: fun Ubuntu Linux User
+- 😄 Pronouns: fun Ubuntu Linux User (on Raspbery Pi 5 and PC)
 - 🌐 Website: micha1207.github.io/page
 - 💬 Tags: #linux #gnu #ubuntu #coding #raspberrypi 
 
