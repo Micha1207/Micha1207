@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding (C, Python)
 - 😄 Pronouns: fun Ubuntu Linux User (on Raspbery Pi 5 and PC)
 - 🌐 Website: micha1207.github.io
-- 💬 Tags: #linux #gnu #ubuntu #coding #raspberrypi
+- 💬 Tags: #linux #gnu #ubuntu #coding #raspberrypi #arduino
 - 📢 Talking in Polish, English, and trying Latin
 
 <!---
