@@ -4,7 +4,7 @@
 - 😄 Pronouns: fun Ubuntu Linux User (on Raspbery Pi 5 and PC)
 - 🌐 Website: micha1207.github.io
 - 💬 Tags: #linux #gnu #ubuntu #coding #raspberrypi #arduino #foss #open-source
-- ⭐️ If you like my projects or want to say something to me, feel free to star it or mail me. 
+- ⭐️ If you like my projects feel free to star them or if you want to mail me, just sudo it.
 
 <!---
 Micha1207/Micha1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
