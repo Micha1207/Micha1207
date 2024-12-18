@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
-- 🌱 I’m currently learning coding (C, Python)
+- 🌱 I’m currently learning coding (C, Rust)
 - 😄 Who am I: Ubuntu Linux User (on Raspbery Pi 5 and PC)
 - 🌐 Website: micha1207.github.io
 - 💬 Tags: #linux #ubuntu #coding #raspberrypi #arduino
