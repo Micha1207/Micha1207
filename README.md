@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning coding (C language)
-- 😄 Who am I: Manjaro GNU/Linux User (on Raspbery Pi 5 and PC)
+- 😄 Who am I: Debian GNU/Linux User (on Raspbery Pi 5 and PC)
 - 🌐 Website: micha1207.github.io
 - 💬 Tags: #linux #manjaro #coding #raspberrypi #arduino
 - ⭐️ If you like my projects feel free to star them or if you want to mail me, just do it.
