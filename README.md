@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning coding
-- 😄 Who am I: Debian GNU/Linux + KDE user
+- 😄 Who am I: GNU/Linux user
 - 🌐 Website: micha1207.github.io
 - I'm just a computer hobbyist
 
