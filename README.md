@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 😄 Who am I: GNU/Linux user
 - 🌐 Website: micha1207.github.io
-- I'm just a computer hobbyist
+- 💻 I'm just a computer hobbyist
 
 <!---
 Micha1207/Micha1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
