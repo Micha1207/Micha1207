@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning coding
-- 😄 Who am I: GNU/Linux user
+- 😄 Who am I: computer hobbyist
 - 🌐 Website: micha1207.github.io
-- 💻 I'm just a computer hobbyist
 
 <!---
 Micha1207/Micha1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
