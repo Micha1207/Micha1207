@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Micha1207
 - 👀 I’m interested in Electronics & Computers
 - 🌱 I’m currently learning Rust language
-- 😄 Who am I: computer hobbyist
+- 😄 I'm a computer hobbyist
+- 🐧 My projects are created for GNU/Linux operating system
 - 🌐 Website: micha1207.github.io
 
 <!---
